@@ -1,6 +1,6 @@
 ### Hi there, I'am Clarissa Ventura 👋
 
-- 🔭 I’m currently working on Front-end.
+- 🔭 I’m currently studing on Front and Back-end.
 - 🌱 I’m currently learning 
 - 😄 Pronouns: she/her
 
